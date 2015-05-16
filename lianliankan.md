@@ -1,4 +1,3 @@
-Java 连连看
 
 import javax.swing.*; 
 import java.awt.*; 
